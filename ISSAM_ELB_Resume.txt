@@ -1,0 +1,71 @@
+My Resume
+Expertise
+2023 - Present
+● Full Stack Web Developer
+
+✔ HTML
+✔ CSS
+✔ Bootstrap
+✔ W3.CSS
+✔ JavaScript
+✔ ES5
+✔ HTML DOM
+✔ JSON
+✔ XML
+✔ jQuery
+✔ Angular
+✔ React.
+✔ PHP
+✔ ASP
+✔ C++
+✔ C++
+✔ C#
+✔ Java
+✔ Python
+✔ Express.js
+✔ Ruby
+✔ REST
+✔ Go
+✔ SQL
+
+2022 - 2021
+● Front-end Developer
+
+✔ HTML
+✔ CSS
+✔ JavaScript.
+
+2021 - 2020
+● Back-end Developer
+
+✔ PYTHON
+✔ C#
+✔ PHP.
+
+Education
+2023 - Present
+● B.E Computer Engineering
+
+✔ A undergraduate degree program that focuses on the study of the design, development, and application of computer systems. The curriculum covers a wide range of topics including computer architecture, programming languages, algorithms, data structures, computer networks, operating systems, databases, software engineering, and more. The program prepares students for careers in various fields such as software development, network engineering, systems administration, data analysis, and more. It provides students with the knowledge and skills necessary to design, develop, and maintain computer systems, and software. Students learn how to design software, hardware, and systems that are scalable, efficient, and meet the needs of their users.
+
+2022 - 2021
+● Diploma in Computer Engineering
+
+✔ A program of study that typically takes two to three years to complete. It provides students with a basic understanding of computer systems, programming, and software development. The curriculum typically includes coursework in computer programming, computer systems, and computer architecture, as well as math and science courses. Graduates of a Diploma in Computer Engineering program may find employment as computer programmers, software developers, or computer systems engineers
+
+2020 - 2021
+● High School Degree
+
+✔ A diploma awarded to students who have successfully completed a certain number of years of secondary education. .
+
+Skills
+HTML & CSS
+JavaScript
+PHP
+SQL
+PYTHON
+C#
+Languages
+English
+French
+Arabic
